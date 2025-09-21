@@ -45,6 +45,7 @@ class Program
                     Console.ReadLine();
                     break;
 
+
                 case "2":
                     activo = false;
                     Console.WriteLine("Saliendo del sistema...");
